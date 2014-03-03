@@ -29,3 +29,11 @@ Ce projet contient trois exemples:
 * console: Montre comment lire les arguments d'une commande écrit en Python3.
 * os.py: Montre l'utilisation des accès fichiers multi-plateforme en Python3.
 * routines.py: Montre l'utilisation des routines en Python3.
+
+Tris en python3
+---------------
+
+Cet exemple montre deux algorithmes de tri en utilisant Python3:
+
+* Tri bulle
+* Tri insertion
