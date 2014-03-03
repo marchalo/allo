@@ -19,3 +19,13 @@ Ce projet contient trois exemples:
 * exagent: Montre l'utilisation des agents en Eiffel.
 * exthread: Montre l'utilisation des threads en Eiffel.
 * exmutex: Montre l'utilisation des mutex en Eiffel afin de synchroniser des Threads.
+
+
+Introduction Python
+-------------------
+
+Ce projet contient trois exemples:
+
+* console: Montre comment lire les arguments d'une commande écrit en Python3.
+* os.py: Montre l'utilisation des accès fichiers multi-plateforme en Python3.
+* routines.py: Montre l'utilisation des routines en Python3.
